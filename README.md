@@ -9,6 +9,7 @@ The things I do when setting up a new Mac
 - [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile)
 - [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Login locally on [GitHub](https://help.github.com/en/github/getting-started-with-github/set-up-git)
+- [ ] follow [which terminal](https://github.com/iSame7/which-terminal)
 - [ ] Login to heroku
 - [ ] Install [zeit now](https://zeit.co/) `npm install -g now`
 
