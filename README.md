@@ -26,7 +26,7 @@ The things I do when setting up a new Mac
 
 ## Finder
 
-- [ ] Show Path Bar
+- [ ] Show Path Bar `View` -> `Show Path Bar`
 - [ ] Remove labels and clean up Sidebar
 
 
@@ -34,7 +34,7 @@ The things I do when setting up a new Mac
 
 - [ ] Auto-hide dock
 - [ ] Remove all the  things
-
+- [ ] Arrange dock `defaults write http://com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'` `killall Dock`
 
 ## Install and setup
 
