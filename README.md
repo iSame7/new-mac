@@ -36,6 +36,8 @@ The things I do when setting up a new Mac
 - [ ] Remove all the  things
 - [ ] Arrange dock `defaults write http://com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'` `killall Dock`
 
+<img src="Screenshot.png" width="500">
+
 ## Install and setup
 
 - [ ] Google Drive
