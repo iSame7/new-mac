@@ -6,6 +6,8 @@ The things I do when setting up a new Mac
 ## Setup shell
 
 - [ ] Install [homebrew](https://brew.sh)
+- [ ] Install [wget](https://www.gnu.org/software/wget/) `brew install wget`
+- [ ] Install [cask](https://github.com/Homebrew/homebrew-cask) `brew install cask`
 - [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile)
 - [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Login locally on [GitHub](https://help.github.com/en/github/getting-started-with-github/set-up-git)
