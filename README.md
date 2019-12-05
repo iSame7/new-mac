@@ -15,7 +15,7 @@ The things I do when setting up a new Mac
 - [ ] Login to heroku
 - [ ] Install [zeit now](https://zeit.co/) `npm install -g now`
 
-## Tweetbot
+## Twitter
 
 - [ ] Login to all accounts
 
@@ -28,7 +28,6 @@ The things I do when setting up a new Mac
 
 - [ ] Show Path Bar `View` -> `Show Path Bar`
 - [ ] Remove labels and clean up Sidebar
-
 
 ## Dock
 
@@ -54,7 +53,5 @@ The things I do when setting up a new Mac
 ## Mac App Store
 
 - [ ] [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
-- [ ] Tweetbot
-- [ ] Bear Notes
-- [ ] Pixelmator
-- [ ] Timing
+- [ ] Twitter
+- [ ] Evernote
