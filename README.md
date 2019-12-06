@@ -36,6 +36,7 @@ The things I do when setting up a new Mac
 - [ ] Arrange dock by adding empty spaces to keep an overview. `defaults write http://com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'` `killall Dock`
 
 <img src="Screenshot.png" width="600">
+<img src="ScreenshotNew.png" width="600">
 
 ## Install and setup
 
