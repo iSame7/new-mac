@@ -29,6 +29,10 @@ The things I do when setting up a new Mac
 - [ ] Show Path Bar `View` -> `Show Path Bar`
 - [ ] Remove labels and clean up Sidebar
 
+## Touch bar 
+
+- [ ] Remove Siri and add Screen Lock in touch bar
+
 ## Dock
 
 - [ ] Auto-hide dock
