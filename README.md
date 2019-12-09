@@ -58,3 +58,4 @@ The things I do when setting up a new Mac
 - [ ] [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
 - [ ] Twitter
 - [ ] Evernote
+- [ ] DevCleaner for Xcode
