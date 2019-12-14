@@ -1,3 +1,4 @@
+cocoapods
 heroku/brew/heroku
 pngquant
 node
