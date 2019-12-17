@@ -14,6 +14,7 @@ The things I do when setting up a new Mac
 - [ ] follow [which terminal](https://github.com/iSame7/which-terminal)
 - [ ] Login to heroku
 - [ ] Install [zeit now](https://zeit.co/) `npm install -g now`
+- [ ] Install Vim 
 
 ## Twitter
 
