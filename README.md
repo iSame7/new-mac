@@ -60,3 +60,4 @@ The things I do when setting up a new Mac
 - [ ] Twitter
 - [ ] Evernote
 - [ ] DevCleaner for Xcode
+- [ ] [Markdown editor](https://twitter.com/twannl/status/1226137323861168128?s=21)
