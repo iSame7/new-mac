@@ -12,3 +12,4 @@ docker
 rbenv
 wget
 gpg
+gh #github 
