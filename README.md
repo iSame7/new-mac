@@ -56,6 +56,8 @@ The things I do when setting up a new Mac
 - [ ] [SwiftaygroundCLI](https://github.com/SvenTiigi/SwiftPlaygroundsCLI)
 - [ ] [Swift sh](https://github.com/mxcl/swift-sh)
 - [ ] [Xcode](https://developer.apple.com/download/more/?q=xcode)
+- [ ] [Geekbench](https://www.geekbench.com/download/)
+
 ## Mac App Store
 
 - [ ] [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
