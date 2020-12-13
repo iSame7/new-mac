@@ -57,6 +57,8 @@ The things I do when setting up a new Mac
 - [ ] [Swift sh](https://github.com/mxcl/swift-sh)
 - [ ] [Xcode](https://developer.apple.com/download/more/?q=xcode)
 - [ ] [Geekbench](https://www.geekbench.com/download/)
+- [ ] [Final cut pro](https://www.apple.com/nl/final-cut-pro/)
+- [ ] [Disk speed test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
 
 ## Mac App Store
 
