@@ -59,6 +59,7 @@ The things I do when setting up a new Mac
 - [ ] [Geekbench](https://www.geekbench.com/download/)
 - [ ] [Final cut pro](https://www.apple.com/nl/final-cut-pro/)
 - [ ] [Disk speed test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
+- [ ] [Sonic-pi](https://sonic-pi.net/)
 
 ## Mac App Store
 
