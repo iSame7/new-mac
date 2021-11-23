@@ -8,7 +8,7 @@ The things I do when setting up a new Mac
 - [ ] Install [homebrew](https://brew.sh)
 - [ ] Install [wget](https://www.gnu.org/software/wget/) `brew install wget`
 - [ ] Install [cask](https://github.com/Homebrew/homebrew-cask) `brew install cask`
-- [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile) `brew cask install {app_name}`
+- [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile) `brew install --cask {app_name}` 
 - [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Login locally on [GitHub](https://help.github.com/en/github/getting-started-with-github/set-up-git)
 - [ ] follow [which terminal](https://github.com/iSame7/which-terminal)
